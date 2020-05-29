@@ -3,4 +3,4 @@
 ### php actions
 ~~is this really hard?~~
 *I don't think this is hard*
-[] learn Markdown grammar
+- [] learn Markdown grammar
